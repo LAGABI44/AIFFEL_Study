@@ -13,5 +13,5 @@
 |21.02.03|9. 폐렴아 기다려라!|✔|✔|https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia|
 |21.02.08|10. 인공지능으로 세상에 없던 새로운 패션 만들기|✔|❌|https://github.com/zalandoresearch/fashion-mnist|
 |21.02.10|11. 어제 오른 내 주식, 과연 내일은?|✔|❌|https://finance.yahoo.com/?guccounter=1|
-|21.02.15||❌|❌||
+|21.02.15|12. 트랜스포머로 만드는 대화형 챗봇|❌|❌||
 |21.02.17||❌|❌||
