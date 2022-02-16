@@ -11,7 +11,7 @@
 |21.01.25|7. 인물사진을 만들어 보자|✔|✔|None|
 |21.01.27|8.뉴스 요약봇 만들기|✔|✔|https://github.com/sunnysai12345/News_Summary|
 |21.02.03|9. 폐렴아 기다려라!|✔|✔|https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia|
-|21.02.08|10. 인공지능으로 세상에 없던 새로운 패션 만들기|✔|❌|https://github.com/zalandoresearch/fashion-mnist|
-|21.02.10|11. 어제 오른 내 주식, 과연 내일은?|✔|❌|https://finance.yahoo.com/?guccounter=1|
+|21.02.08|10. 인공지능으로 세상에 없던 새로운 패션 만들기|✔|✔|https://github.com/zalandoresearch/fashion-mnist|
+|21.02.10|11. 어제 오른 내 주식, 과연 내일은?|✔|✔|https://finance.yahoo.com/?guccounter=1|
 |21.02.15|12. 트랜스포머로 만드는 대화형 챗봇|✔|❌|https://github.com/songys/Chatbot_data/blob/master/ChatbotData.csv|
-|21.02.17||❌|❌||
+|21.02.17|13. 인간보다 퀴즈를 잘푸는 인공지능|❌|❌| https://korquad.github.io/|
